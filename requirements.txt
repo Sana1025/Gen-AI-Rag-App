@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+python-multipart
+sentence-transformers
+faiss-cpu
+transformers
+langchain
+langchain-community
+tree-sitter
+pypdf
+torch
